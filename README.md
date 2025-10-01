@@ -9,7 +9,7 @@ Le tableau de bord permet aux étudiants d’explorer des algorithmes comme **Ga
 
 L’accès au tableau de bord se fait via une interface de connexion simple et ergonomique :  
 
-![Page de Connexion](./images/login.png)
+![Page de Connexion](./images/login1.png)
 
 Fonctionnalités :  
 - Authentification par **nom d’utilisateur et mot de passe**  
