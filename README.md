@@ -1,60 +1,74 @@
 # 📊 Tableau de Bord Interactif pour l’Enseignement de l’Analyse Numérique
 
 Un projet éducatif interactif conçu pour enseigner et visualiser les méthodes d’analyse numérique de manière intuitive.  
-Le tableau de bord permet aux étudiants d’explorer des algorithmes comme Gauss, Jacobi, et Newton à travers des **quiz**, des **puzzles interactifs**, et des **visualisations pas-à-pas**.
+Le tableau de bord permet aux étudiants d’explorer des algorithmes comme **Gauss, Jacobi, Newton** à travers des **quiz**, des **puzzles interactifs**, et des **visualisations pas-à-pas**.
 
 ---
 
-## 🚀 Fonctionnalités
+## 🔑 Page de Connexion
+
+L’accès au tableau de bord se fait via une interface de connexion simple et ergonomique :  
+
+![Page de Connexion](./images/login.png)
+
+Fonctionnalités :  
+- Authentification par **nom d’utilisateur et mot de passe**  
+- Affichage des **erreurs de connexion**  
+- Message d’astuce pédagogique : *« Essayez la méthode de Newton pour une convergence rapide »*  
+- Illustration mathématique intégrée (formule de Newton-Raphson)  
+
+---
+
+## 🚀 Fonctionnalités Principales
 
 - ✅ **Quiz interactifs** pour tester la compréhension  
-- ✅ **Visualisations étape par étape** des méthodes (Gauss, Jacobi, Newton)  
+- ✅ **Visualisations étape par étape** des méthodes numériques  
 - ✅ **Puzzle éducatif** pour résoudre des systèmes linéaires  
-- ✅ **Corrections intelligentes** avec explications en cas d’erreur  
-- ✅ **Animations et vidéos** pour un apprentissage plus immersif  
+- ✅ **Corrections intelligentes** avec feedback personnalisé  
+- ✅ **Animations et vidéos** pour un apprentissage immersif  
 
 ---
 
-## 🖼️ Aperçus
+## 🖼️ Aperçus du Tableau de Bord
 
 ### 🎯 Quiz & Résultats
 - Interface du quiz et exemples de questions :  
-  ![Quiz 1](./quiz1.png)  
-  ![Quiz 2](./quiz2.png)  
-  ![Quiz 4](./quiz4.png)  
+  ![Quiz 1](./images/quiz1.png)  
+  ![Quiz 2](./images/quiz2.png)  
+  ![Quiz 4](./images/quiz4.png)  
 
 - Résultats et feedback :  
-  ![Résultat Correct](./resultatQuizCorrect.png)  
-  ![Résultat Incorrect](./resultatFailQuiz.png)  
-  ![Explication](./explicationQuizIncorrect.png)  
+  ![Résultat Correct](./images/resultatQuizCorrect.png)  
+  ![Résultat Incorrect](./images/resultatFailQuiz.png)  
+  ![Explication](./images/explicationQuizIncorrect.png)  
 
 ---
 
 ### 🧩 Puzzle & Exercices
 - Puzzle de Gauss :  
-  ![Puzzle Gauss](./puzzleGauss.png)  
+  ![Puzzle Gauss](./images/puzzleGauss.png)  
 
 - Affichage dynamique du quiz :  
-  ![Display Quiz](./displayQuiz.png)  
+  ![Display Quiz](./images/displayQuiz.png)  
 
 ---
 
 ### 🔢 Méthodes Numériques
 
-- Résolution par Gauss :  
-  ![Solve Gauss](./solveGauss.png)  
-  ![Vidéo Gauss](./videoGauss.png)  
-  ![Visualisation Gauss](./visualisationGauss.png)  
+- **Résolution par Gauss** :  
+  ![Solve Gauss](./images/solveGauss.png)  
+  ![Vidéo Gauss](./images/videoGauss.png)  
+  ![Visualisation Gauss](./images/visualisationGauss.png)  
 
-- Méthode de Jacobi :  
-  ![Système Jacobi](./systemJacobi.png)  
-  ![Visualisation Jacobi](./visualisationJacobi.png)  
+- **Méthode de Jacobi** :  
+  ![Système Jacobi](./images/systemJacobi.png)  
+  ![Visualisation Jacobi](./images/visualisationJacobi.png)  
 
 ---
 
 ### 🐍 Intégration Python
 - Exemple d’utilisation Python dans le tableau de bord :  
-  ![Python](./python.png)  
+  ![Python](./images/python.png)  
 
 ---
 
